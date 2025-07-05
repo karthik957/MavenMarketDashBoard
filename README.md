@@ -9,8 +9,8 @@ This interactive Power BI dashboard provides a comprehensive overview of Maven M
 -Target Monitoring: Revenue vs. target gauge to assess goal progress.<br />
 
 🛠️ Tools Used:
--Power BI for data visualization
--DAX for calculated measures
--Excel (or CSV) as data source (assumed)
+-Power BI for data visualization<br />
+-DAX for calculated measures<br />
+-Excel (or CSV) as data source (assumed)<br />
 
 This dashboard helps stakeholders identify top-performing products, areas with high returns, and track progress toward financial goals in real time.
